@@ -1,0 +1,15 @@
+﻿  lab2_ex2.cpp
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(32,57): error C2664: 'void findMarks(int,int,float &,float &)': cannot convert argument 3 from 'int' to 'float &'
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(6,6): message : see declaration of 'findMarks'
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(37,10): warning C4129: 'm': unrecognized character escape sequence
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(37,10): warning C4129: 'C': unrecognized character escape sequence
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,14): error C2065: 'j': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,41): error C2065: 'j': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,65): error C2065: 'j': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,86): error C2065: 'fixd': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,116): error C2065: 'j': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,118): error C2146: syntax error: missing ';' before identifier 'CA1'
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,118): error C2065: 'CA1': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(40,136): error C2065: 'j': undeclared identifier
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(46,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Semester 2 Subjects Works\4.Object Oriented Concepts\Campus Works\lab2_ex2\lab2_ex2.cpp(47,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
